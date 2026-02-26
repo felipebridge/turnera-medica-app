@@ -78,3 +78,15 @@ Se prioriza el bajo acoplamiento, alta cohesión y reutilización de código.
 - El sistema valida las reglas de negocio antes de realizar operaciones en la base de datos.
 - El diseño está orientado a objetos y separado en capas según lo visto en la materia.
 - El proyecto fue desarrollado para ser defendido en instancia oral, justificando las decisiones de diseño adoptadas.
+
+## Project
+
+![Main](docs/images/Main.png)
+![Médicos](docs/images/Médicos.png)
+![Pacientes](docs/images/Pacientes.png)
+![Turnos](docs/images/Turnos.png)
+![Reportes](docs/images/Reportes.png)
+
+## Estado del proyecto
+
+Proyecto Finalizado
