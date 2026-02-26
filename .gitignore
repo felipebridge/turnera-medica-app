@@ -22,3 +22,5 @@ src/Config/db.properties
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+lib/
